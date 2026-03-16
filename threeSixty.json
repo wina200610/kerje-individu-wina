@@ -1,0 +1,72 @@
+{
+  "version": "3.62.27443.0",
+  "course_id": "680XffOaoya",
+  "title": "INDIVIDU WINA",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6flPnH7E8oC",
+      "title": "OPENING",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6F12WhVjTs4",
+      "title": "OBKEKTIF",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6ZqotRucZ5j",
+      "title": "MAKSUD",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "60ZtQUaxOkZ",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6ibI7kZhyoI",
+      "title": "Drag and Drop",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6R6pCrpnDdN",
+      "title": "APAKAH KEPENTINGAN MULTIMEDIA DALAM PEMBELAJARAN ?",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5rkYUzDVY3K",
+      "title": "BAGAIMANAKAH MULTIMEDIA MEMBANTU PELAJAR MEMAHAMI PELAJARAN ?",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6MQeVjS4eZS",
+      "title": "APAKAH SALAH SATU KELEBIHAN PENGGUNAAN  MULTIMEDIA DALAM PENDIDIKAN ?",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6cSKlv21osb",
+      "title": "MULTIMEDIA HANYA TERDIRI DARIPADA TEKS DAN GAMBAR SAHAJA ?",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "64OWYn9KUrw",
+      "title": "Results Slide",
+      "scene_index": "1.10"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
